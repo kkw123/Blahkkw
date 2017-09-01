@@ -1,0 +1,26 @@
+article.content {
+	width: 50%;
+	position: absolute;
+	left: 30%;
+	}
+aside.signUp {
+	margin-top: 2%;
+	display: inline-block;
+	width: 12%;
+	right: 0%;
+	border: 3px solid #e6323d;
+	text-align: center;
+	padding: 1%
+	}
+aside.signUp a{
+	color: #333333;
+	text-decoration: none;
+	border: 1px solid #e9552c;
+	padding: 6px;
+	}
+aside.signUp a:hover{
+	font-weight: bold;
+	background-color: #59b8e6;
+	color: #e9552c;
+	cursor: pointer;
+	}
